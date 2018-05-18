@@ -2,5 +2,6 @@
 
     <string name="app_name">BTExample</string>
     <string name="bt_switch_text">Toggle bluetooth</string>
+    <string name="error_device_does_not_support_bluetooth">Device doesn\'t support bluetooth</string>
 
 </resources>
