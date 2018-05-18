@@ -1,0 +1,6 @@
+<resources>
+
+    <string name="app_name">BTExample</string>
+    <string name="bt_switch_text">Toggle bluetooth</string>
+
+</resources>
