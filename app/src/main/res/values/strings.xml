@@ -3,5 +3,8 @@
     <string name="app_name">BTExample</string>
     <string name="bt_switch_text">Toggle bluetooth</string>
     <string name="error_device_does_not_support_bluetooth">Device doesn\'t support bluetooth</string>
+    <string name="advertiser_success">Success advertising</string>
+    <string name="advertiser_error">Advertising error</string>
+    <string name="error_device_has_no_ble_support">\"Device does not support Bluetooth LE\"</string>
 
 </resources>
