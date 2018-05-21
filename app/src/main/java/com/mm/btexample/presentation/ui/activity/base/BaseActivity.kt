@@ -1,4 +1,4 @@
-package com.mm.btexample.presentation.ui.base
+package com.mm.btexample.presentation.ui.activity.base
 
 import android.support.v7.widget.Toolbar
 import com.arellomobile.mvp.MvpAppCompatActivity

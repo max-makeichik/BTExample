@@ -1,4 +1,4 @@
-package com.mm.btexample.presentation.ui
+package com.mm.btexample.presentation.ui.activity
 
 import android.bluetooth.BluetoothAdapter
 import android.content.BroadcastReceiver
@@ -13,7 +13,8 @@ import com.mm.btexample.R
 import com.mm.btexample.di.DI
 import com.mm.btexample.presentation.mvp.presenter.MainPresenter
 import com.mm.btexample.presentation.mvp.view.MainMvpView
-import com.mm.btexample.presentation.ui.base.BaseActivity
+import com.mm.btexample.presentation.ui.BtAdvertisementDelegate
+import com.mm.btexample.presentation.ui.activity.base.BaseActivity
 import kotlinx.android.synthetic.main.activity_main.*
 import toothpick.Toothpick
 
